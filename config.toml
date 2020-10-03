@@ -1,5 +1,5 @@
 ##### BASE SETTINGS #####
-baseURL = "https://hjarta.care/"
+baseURL = "https://hjarta-care.github.io/"
 languageCode = "en-us"
 title = "Hjärta Care"
 themesDir = "./themes/"
