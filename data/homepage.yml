@@ -2,7 +2,7 @@
 banner:
   title : "Hjärta Care"
   image : "images/hjarta_main.svg"
-  content : "Raising anchor on aortic stent extraction <br /> We've designed an affordable, minimally invassive device for the removal of floating stents"
+  content : "Raising anchor on aortic stent extraction<br /><br />We've designed an affordable, minimally invassive device for the removal of floating stents"
   button:
     enable : true
     label : "Ready to set sail?"
@@ -11,7 +11,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "What does the Anchor Lift 3000 do?"
   feature_item:
     # feature item loop
     - name : "Clean Code"
