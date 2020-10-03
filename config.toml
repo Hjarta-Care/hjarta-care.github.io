@@ -1,7 +1,7 @@
 ##### BASE SETTINGS #####
 baseURL = "https://hjarta.care/"
 languageCode = "en-us"
-title = "Hjarta Care"
+title = "Hjärta Care"
 themesDir = "./themes/"
 theme = "bigspring"
 publishDir = "docs"
@@ -99,11 +99,11 @@ URL = "faq"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Raising anchor on aortic stent extraction"
+author = "@bbthoron"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
