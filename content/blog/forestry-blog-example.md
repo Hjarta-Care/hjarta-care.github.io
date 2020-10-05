@@ -1,7 +1,6 @@
 +++
 date = 2020-10-05T05:00:00Z
 description = "Testing our Forestry's editor"
-draft = true
 image = "/images/sebastian-unrau-sp-p7uut0tw-unsplash.jpg"
 title = "Forestry Blog Example"
 type = "Blog"
