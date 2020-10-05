@@ -6,10 +6,19 @@
     <description>Recent content in Latest News on Hjärta Care</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hjarta-care.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forestry Blog Example</title>
+      <link>https://hjarta-care.github.io/blog/forestry-blog-example/</link>
+      <pubDate>Mon, 05 Oct 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://hjarta-care.github.io/blog/forestry-blog-example/</guid>
+      <description>Hello world! This is my first blog post using Forestry. I&amp;rsquo;m testing to see if this is a suitable CMS for managing the Hjarta Care website.</description>
+    </item>
     
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
